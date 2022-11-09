@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+table th, td {
+    border: solid 1px black;
+}
+
+
+.food-photo{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    
+}
+
+.card1{
+    margin-left: 5px;
+    padding: 10px;
+    border: solid 1px black;
+    border-radius: 12px;
+    margin-top: 50px;
+    
+}
+
+.card1 img {
+    width: 100%;
+    border-radius: 8px;
+    
+}
